@@ -1,6 +1,6 @@
 #include <stdio.h>
-int main() {
-  
+int main() { 
+    // 
     char c;
     printf("Enter a character: ");
     scanf("%c", &c);  
@@ -9,4 +9,3 @@ int main() {
     
     return 0;
 }
-
